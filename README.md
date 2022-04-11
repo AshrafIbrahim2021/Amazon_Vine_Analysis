@@ -54,6 +54,6 @@ only showing top 5 rows
  
  
 ## Summary 
-There are 9002021 total reviews
-There are 4824725 5-star reviews
+There are 9002021 total reviews / 
+There are 4824725 5-star reviews / 
 There are 0.0 % 5-star vine (vine = Y) reviews
